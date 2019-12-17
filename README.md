@@ -17,7 +17,7 @@ npm install
 
 ng serve
 
-# Third terminal tab (used port: 4202)
+# Third terminal tab (used port: 4300)
 cd app2
 
 npm install
