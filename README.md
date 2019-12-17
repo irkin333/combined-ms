@@ -3,7 +3,9 @@ It is preferred to only run one app at a time. But if you need to run them all l
 
 # First terminal tab
 cd app-frame
+
 npm install
+
 npm start
 
 Open http://localhost:4200 ;
