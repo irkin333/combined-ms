@@ -12,10 +12,14 @@ Open http://localhost:4200 ;
 
 # Second terminal tab (used port: 4201)
 cd app1
+
 npm install
+
 ng serve
 
 # Third terminal tab (used port: 4202)
 cd app2
+
 npm install
+
 ng serve
